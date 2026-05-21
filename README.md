@@ -102,7 +102,7 @@ TizRang automatically installs required packages:
 
 Clone Repository
 
-git clone https://github.com/AmiRAG6/TizRang.git
+git clone https://github.com/AmiRAG6/Tizrang.git
 cd TizRang
 
 Install
@@ -276,7 +276,7 @@ TizRang امکاناتی مانند تحلیل دامنه، بررسی DNS، ت�
 
 دریافت پروژه
 
-git clone https://github.com/AmiRAG6/TizRang.git
+git clone https://github.com/AmiRAG6/Tizrang.git
 cd TizRang
 
 نصب
