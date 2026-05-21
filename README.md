@@ -103,17 +103,25 @@ TizRang automatically installs required packages:
 Clone Repository
 
 git clone https://github.com/AmiRAG6/Tizrang.git
-cd TizRang
+cd Tizrang
 
 Install
 
-bash tizrang --install
+bash TizRang.sh --install
 
 ---
 
 🚀 Run
 
 tizrang
+
+---
+
+🚀 Run without installation 
+
+chmod +x TizRang.sh
+
+./TizRang.sh
 
 ---
 
@@ -281,13 +289,22 @@ cd TizRang
 
 نصب
 
-bash tizrang --install
+bash TizRang.sh --install
 
 ---
 
 🚀 اجرا
 
 tizrang
+
+---
+
+
+🚀 اجرا بدونه نصب
+
+chmod +x TizRang.sh
+
+./TizRang.sh
 
 ---
 
