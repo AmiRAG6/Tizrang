@@ -102,7 +102,7 @@ TizRang automatically installs required packages:
 
 Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/TizRang.git
+git clone https://github.com/AmiRAG6/TizRang.git
 cd TizRang
 
 Install
